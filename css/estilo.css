@@ -1,0 +1,143 @@
+ 
+	/*Barra de navegação*/ 
+
+	header { 
+		padding: 15px 0; 
+		height: 100px;
+		background-color: #00008b; 
+	}
+
+	nav ul {
+
+		list-style: none;
+		float: right;
+		width: 500px;
+	}
+
+	nav ul li {
+		font-size: 20px;
+		float: left;
+		margin: 10px;
+	}
+
+	nav ul li a{
+		text-decoration: none;
+		color: white;
+		text-transform: uppercase;
+	}
+
+	nav ul li a:hover {
+	    background-color: white;
+		color: black;
+		border-radius: 2px;
+		text-decoration: none;
+	}
+
+
+	
+
+
+	#logo {
+		font-family: Gravitas One;
+		font-size: 50px;
+		color: white;
+	}
+
+	/* Conteudo */
+
+    .container {
+    	align-items: center;
+    }
+
+	#titulo {
+		margin-top: 16px;
+		margin-left: 100px;
+		font-family: Helvetica;
+		max-width: 600px;
+	}
+
+
+	/* Imagem */
+
+	img {
+		width: 800px;
+	}
+
+	#imagemPrincipal {
+		margin-left: 50px;
+	}
+
+
+	/******** Cadastro/Login *********/
+
+	.loginCriar {
+      max-width: 1100px;
+	}
+
+	.loginCriar button {
+		margin-left: 80px;
+		margin-top: 10px;
+	}
+
+	.criarConta {
+		width: 400px;
+		height: 150px;
+		float: left;
+		margin-left: 50px;
+		background-color: #00008b;
+	}
+
+	.conteudoLogin {
+		color: white;
+		margin-left: 35px;
+		margin-top: 20px;
+	}
+
+	
+
+	.fazerLogin {
+		width: 400px;
+		height: 150px;
+		float: right;
+		margin-right: 50px;
+		margin-bottom: 100px;
+		background-color: #00008b;
+	}
+
+	/******* Tela de login ***********/
+
+		 .container_login {
+		width: 600px;
+		height: 400px;  
+		margin-left: 150px;
+		margin-top: 10px;
+		background-color: #00008b;
+		text-align: center;
+			
+	}
+
+	 .container_login h1 {
+	 	font-family: Brilhar;
+	 	color: white;
+	 	margin-top: 25px;
+	 	font-size: 50px;
+	 	padding: 10px;
+	 }
+
+	 .inputs {
+	 	
+	 }
+
+	 .inputs input{
+
+	 	margin-top: 8px;
+	 	width: 300px;
+	 	height: 38px;
+	 	border-radius: 4px;
+
+	 }
+
+	 
+
+	 
+

@@ -1,0 +1,96 @@
+	 .container_login {
+		width: 600px;
+		height: 400px;  
+		margin-left: 150px;
+		margin-top: 10px;
+		background-color: #00008b; 
+		text-align: center;
+		border: 1px solid #00008b;
+		border-radius: 10px;
+			
+	}
+
+		.container_criar_conta {
+		width: 600px;
+		height: 600px;  
+		margin-left: 150px;
+		margin-top: 10px;
+		background-color: #00008b;
+		text-align: center;
+		border: 1px solid #00008b;
+		border-radius: 10px;
+			
+	}
+
+	 .container_login h1 {
+	 	font-family: Brilhar;
+	 	color: white;
+	 	margin-top: 25px;
+	 	font-size: 50px;
+	 	padding: 10px;
+	 }
+
+	 .container_criar_conta h1 {
+	 	font-family: Brilhar;
+	 	color: white;
+	 	margin-top: 25px;
+	 	font-size: 50px;
+	 	padding: 10px;
+	 }
+
+
+	 .inputs {
+	 	
+	 }
+
+	 .inputs input{
+
+	 	margin-top: 8px;
+	 	width: 300px;
+	 	height: 38px;
+	 	border-radius: 4px;
+	 	text-decoration: none;
+
+	 }
+
+	 .btnlogin {
+	 	width: 40px;
+	 }
+
+	 .inscreverse h6{
+	 	width: 400px;
+       color: white;
+       font-family: Brilhar;
+       margin-left: 100px;
+       
+	 }
+
+	 /*********** Serviços **********/
+	 .containerServicos {
+	 	width: 900px;
+	 	height: 300px;
+	 	background-color: #008b8b;
+	 	margin-left: 10px;
+	 	color: white;
+	 	border-radius: 6px;
+	 }
+
+	 .containerServicos h1 {
+	 	font-family: Brilhar;
+	 	margin-left: 340px;a
+	 }
+
+	 .bloco {
+	 	width: 280px;
+	 	height: 200px;
+	 	margin-right: 14px;
+	 	float: right;
+	 	background-color: #00008b;
+	 	text-align: center;
+	 	border-radius: 8px;
+	 }
+
+	 /********* Moedas **********/
+
+
+	 
