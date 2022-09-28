@@ -1,5 +1,5 @@
 # Financas Online
-Esse projeto é um site com o intuito de ajudar pessoas as pessoas a organizara vida financeira.
+Esse projeto é um site com o intuito de ajudar pessoas as pessoas a organizar a vida financeira.
 
 #### Imagem
 
