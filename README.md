@@ -1,8 +1,8 @@
 # Financas Online
 <p align='center'>
-<img src="https://img.shields.io/github/repo-size/Savio-Anjos/financas-online?color=7e22ce">
-<img src="https://img.shields.io/github/languages/count/Savio-Anjos/financas-online?color=7e22ce">
-<img src="https://img.shields.io/github/last-commit/Savio-Anjos/financas-online?color=7e22ce">
+<img src="https://img.shields.io/github/repo-size/Savio-Anjos/financas-online?color=0d9488">
+<img src="https://img.shields.io/github/languages/count/Savio-Anjos/financas-online?color=0d9488">
+<img src="https://img.shields.io/github/last-commit/Savio-Anjos/financas-online?color=0d9488">
 </p>
 Esse projeto é um site com o intuito de ajudar pessoas as pessoas a organizar a vida financeira.
 
