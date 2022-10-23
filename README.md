@@ -8,6 +8,6 @@ Esse projeto é um site com o intuito de ajudar pessoas as pessoas a organizar a
 
 A maior parte teve foco apenas no front-end, exceto a cotação de moedas que é totalmente funcional com base em uma API.
 
-#### Imagem
+#### Imagem 
 
 ![Logo do Projeto](img/capa.png)
